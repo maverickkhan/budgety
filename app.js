@@ -349,8 +349,3 @@ var controller = (function(BudgetCtrl, UICtrl) {
 
 })(budgetController, UIController);
 controller.init();
-
-var tester = {
-    achiwali: [1, 2, 3],
-    gandiwali: [3, 2, 1],
-};
